@@ -1,6 +1,9 @@
-Once upon a tie there was a blog post. 
+---
+title: "BRAW TITLE"
+date: 2021-01-16
+---
 
-Not sure where the tie came in. 
+And a blog post is born. 
 
-The blog post started writing.  
+With a spiffy title. 
 
